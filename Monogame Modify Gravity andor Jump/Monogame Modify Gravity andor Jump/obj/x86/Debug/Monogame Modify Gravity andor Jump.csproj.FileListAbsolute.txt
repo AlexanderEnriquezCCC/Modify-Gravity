@@ -1,0 +1,24 @@
+C:\Users\BEARBURGERR\Desktop\School\2020Programming\Game Programming\Monogame Modify Gravity andor Jump\Monogame Modify Gravity andor Jump\bin\Windows\x86\Debug\Content\PinkHat.xnb
+C:\Users\BEARBURGERR\Desktop\School\2020Programming\Game Programming\Monogame Modify Gravity andor Jump\Monogame Modify Gravity andor Jump\bin\Windows\x86\Debug\Monogame Modify Gravity andor Jump.exe
+C:\Users\BEARBURGERR\Desktop\School\2020Programming\Game Programming\Monogame Modify Gravity andor Jump\Monogame Modify Gravity andor Jump\bin\Windows\x86\Debug\Monogame Modify Gravity andor Jump.pdb
+C:\Users\BEARBURGERR\Desktop\School\2020Programming\Game Programming\Monogame Modify Gravity andor Jump\Monogame Modify Gravity andor Jump\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\BEARBURGERR\Desktop\School\2020Programming\Game Programming\Monogame Modify Gravity andor Jump\Monogame Modify Gravity andor Jump\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\BEARBURGERR\Desktop\School\2020Programming\Game Programming\Monogame Modify Gravity andor Jump\Monogame Modify Gravity andor Jump\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\BEARBURGERR\Desktop\School\2020Programming\Game Programming\Monogame Modify Gravity andor Jump\Monogame Modify Gravity andor Jump\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\BEARBURGERR\Desktop\School\2020Programming\Game Programming\Monogame Modify Gravity andor Jump\Monogame Modify Gravity andor Jump\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\BEARBURGERR\Desktop\School\2020Programming\Game Programming\Monogame Modify Gravity andor Jump\Monogame Modify Gravity andor Jump\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\BEARBURGERR\Desktop\School\2020Programming\Game Programming\Monogame Modify Gravity andor Jump\Monogame Modify Gravity andor Jump\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\BEARBURGERR\Desktop\School\2020Programming\Game Programming\Monogame Modify Gravity andor Jump\Monogame Modify Gravity andor Jump\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\BEARBURGERR\Desktop\School\2020Programming\Game Programming\Monogame Modify Gravity andor Jump\Monogame Modify Gravity andor Jump\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\BEARBURGERR\Desktop\School\2020Programming\Game Programming\Monogame Modify Gravity andor Jump\Monogame Modify Gravity andor Jump\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\BEARBURGERR\Desktop\School\2020Programming\Game Programming\Monogame Modify Gravity andor Jump\Monogame Modify Gravity andor Jump\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\BEARBURGERR\Desktop\School\2020Programming\Game Programming\Monogame Modify Gravity andor Jump\Monogame Modify Gravity andor Jump\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\BEARBURGERR\Desktop\School\2020Programming\Game Programming\Monogame Modify Gravity andor Jump\Monogame Modify Gravity andor Jump\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\BEARBURGERR\Desktop\School\2020Programming\Game Programming\Monogame Modify Gravity andor Jump\Monogame Modify Gravity andor Jump\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\BEARBURGERR\Desktop\School\2020Programming\Game Programming\Monogame Modify Gravity andor Jump\Monogame Modify Gravity andor Jump\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\BEARBURGERR\Desktop\School\2020Programming\Game Programming\Monogame Modify Gravity andor Jump\Monogame Modify Gravity andor Jump\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\BEARBURGERR\Desktop\School\2020Programming\Game Programming\Monogame Modify Gravity andor Jump\Monogame Modify Gravity andor Jump\obj\x86\Debug\Monogame Modify Gravity andor Jump.csprojAssemblyReference.cache
+C:\Users\BEARBURGERR\Desktop\School\2020Programming\Game Programming\Monogame Modify Gravity andor Jump\Monogame Modify Gravity andor Jump\obj\x86\Debug\Monogame Modify Gravity andor Jump.csproj.CoreCompileInputs.cache
+C:\Users\BEARBURGERR\Desktop\School\2020Programming\Game Programming\Monogame Modify Gravity andor Jump\Monogame Modify Gravity andor Jump\obj\x86\Debug\Monogame Modify Gravity andor Jump.csproj.CopyComplete
+C:\Users\BEARBURGERR\Desktop\School\2020Programming\Game Programming\Monogame Modify Gravity andor Jump\Monogame Modify Gravity andor Jump\obj\x86\Debug\Monogame Modify Gravity andor Jump.exe
+C:\Users\BEARBURGERR\Desktop\School\2020Programming\Game Programming\Monogame Modify Gravity andor Jump\Monogame Modify Gravity andor Jump\obj\x86\Debug\Monogame Modify Gravity andor Jump.pdb
